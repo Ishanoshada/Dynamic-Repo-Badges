@@ -2,8 +2,16 @@
 
 Elevate your GitHub repositories with **stunning, real-time view count badges** and **dynamic SVG banners**. Choose from a variety of professionally designed styles to showcase your repository's popularity and enhance your GitHub profile.
 
-![Dynamic Badge Example](https://ishan-rest.vercel.app/svg/count/1/Repository%20Views/demo)
+![Dynamic Badge Example](https://dynamic-repo-badges.vercel.app/svg/count/1/Repository%20Views/demo)
 ![Dynamic Banner Example](https://ishan-rest.vercel.app/svg/banner/dev/IshanOshada)
+
+## 🌐 Live Demo
+
+Explore our **Dynamic Repository Views Badge Generator** in action! Visit the live demo to see real-time badge and banner examples, customize styles, and generate Markdown code for your GitHub repositories.
+
+👉 [**View Live Demo**](https://dynamic-repo-badges.vercel.app/)
+
+Try out styles like **Classic**, **Matrix**, **Black Hole Animated**, and more, and see how they enhance your repository's README or profile.
 
 ---
 
@@ -38,15 +46,16 @@ Showcase your repository's view count with these stunning badge styles:
 
 | Style | Preview | Markdown Code | Tags |
 |-------|---------|---------------|------|
-| **Classic** | ![Classic](https://ishan-rest.vercel.app/svg/count/1/Repository%20Views/demo) | `![Views](https://ishan-rest.vercel.app/svg/count/1/Repository%20Views/your-repo)` | Professional, Clean |
-| **Modern** | ![Modern](https://ishan-rest.vercel.app/svg/count/2/Repository%20Views/demo) | `![Views](https://ishan-rest.vercel.app/svg/count/2/Repository%20Views/your-repo)` | Sleek, Elegant |
-| **Minimal** | ![Minimal](https://ishan-rest.vercel.app/svg/count/3/Repository%20Views/demo) | `![Views](https://ishan-rest.vercel.app/svg/count/3/Repository%20Views/your-repo)` | Simple, Clean |
-| **Stats** | ![Stats](https://ishan-rest.vercel.app/svg/count/4/2/demo) | `![Views](https://ishan-rest.vercel.app/svg/count/4/1/your-repo)` | Detailed, Analytics |
-| **Universe** | ![Universe](https://ishan-rest.vercel.app/svg/count/5/Repository%20Views/demo) | `![Views](https://ishan-rest.vercel.app/svg/count/5/Repository%20Views/your-repo)` | Cosmic, Creative |
-| **Black Hole** | ![Black Hole](https://ishan-rest.vercel.app/svg/count/6/Repository%20Views/demo) | `![Views](https://ishan-rest.vercel.app/svg/count/6/Repository%20Views/your-repo)` | Futuristic, Premium |
-| **Black Hole Animated** | ![Black Hole Animated](https://ishan-rest.vercel.app/svg/count/7/Repository%20Views/demo) | `![Views](https://ishan-rest.vercel.app/svg/count/7/Repository%20Views/your-repo)` | Animated, Dynamic |
-| **Black Hole Advanced** | ![Black Hole Advanced](https://ishan-rest.vercel.app/svg/count/8/Repository%20Views/demo) | `![Views](https://ishan-rest.vercel.app/svg/count/8/Repository%20Views/your-repo)` | Premium, Advanced |
-| **Matrix** | ![Matrix](https://ishan-rest.vercel.app/svg/count/9/Repository%20Views/demo) | `![Views](https://ishan-rest.vercel.app/svg/count/9/Repository%20Views/your-repo)` | Animated, Cyberpunk |
+| **Classic** | ![Classic](https://dynamic-repo-badges.vercel.app/svg/count/1/Repository%20Views/demo) | `![Views](https://dynamic-repo-badges.vercel.app/svg/count/1/Repository%20Views/your-repo)` | Professional, Clean |
+| **Modern** | ![Modern](https://dynamic-repo-badges.vercel.app/svg/count/2/Repository%20Views/demo) | `![Views](https://dynamic-repo-badges.vercel.app/svg/count/2/Repository%20Views/your-repo)` | Sleek, Elegant |
+| **Minimal** | ![Minimal](https://dynamic-repo-badges.vercel.app/svg/count/3/Repository%20Views/demo) | `![Views](https://dynamic-repo-badges.vercel.app/svg/count/3/Repository%20Views/your-repo)` | Simple, Clean |
+| **Stats** | ![Stats](https://dynamic-repo-badges.vercel.app/svg/count/4/2/demo) | `![Views](https://dynamic-repo-badges.vercel.app/svg/count/4/1/your-repo)` | Detailed, Analytics |
+| **Universe** | ![Universe](https://dynamic-repo-badges.vercel.app/svg/count/5/Repository%20Views/demo) | `![Views](https://dynamic-repo-badges.vercel.app/svg/count/5/Repository%20Views/your-repo)` | Cosmic, Creative |
+| **Black Hole** | ![Black Hole](https://dynamic-repo-badges.vercel.app/svg/count/6/Repository%20Views/demo) | `![Views](https://dynamic-repo-badges.vercel.app/svg/count/6/Repository%20Views/your-repo)` | Futuristic, Premium |
+| **Black Hole Animated** | ![Black Hole Animated](https://dynamic-repo-badges.vercel.app/svg/count/7/Repository%20Views/demo) | `![Views](https://dynamic-repo-badges.vercel.app/svg/count/7/Repository%20Views/your-repo)` | Animated, Dynamic |
+| **Black Hole Advanced** | ![Black Hole Advanced](https://dynamic-repo-badges.vercel.app/svg/count/8/Repository%20Views/demo) | `![Views](https://dynamic-repo-badges.vercel.app/svg/count/8/Repository%20Views/your-repo)` | Premium, Advanced |
+| **Matrix** | ![Matrix](https://dynamic-repo-badges.vercel.app/svg/count/9/Repository%20Views/demo) | `![Views](https://dynamic-repo-badges.vercel.app/svg/count/9/Repository%20Views/your-repo)` | Animated, Cyberpunk |
+
 
 ---
 
@@ -74,7 +83,7 @@ Integrate and customize with our robust API:
 ### Update View Count
 To manually update view counts, send a POST request to:
 ```
-/update_views/{repository-tag}
+https://dynamic-repo-badges.vercel.app/update_views/{repository-tag}
 ```
 
 | Parameter | Type | Description |
