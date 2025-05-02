@@ -1,4 +1,4 @@
-# 🏷️ Dynamic Repository Views Badge Generator
+# 🏷️ Dynamic Repository  Badge Generator
 
 Elevate your GitHub repositories with **stunning, real-time view count badges** and **dynamic SVG banners**. Choose from a variety of professionally designed styles to showcase your repository's popularity and enhance your GitHub profile.
 
