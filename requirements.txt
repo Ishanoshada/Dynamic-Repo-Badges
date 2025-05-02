@@ -1,0 +1,4 @@
+Flask
+pymongo
+python-dotenv
+flask-minify
