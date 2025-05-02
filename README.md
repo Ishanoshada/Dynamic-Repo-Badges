@@ -5,6 +5,8 @@ Elevate your GitHub repositories with **stunning, real-time view count badges** 
 ![Dynamic Badge Example](https://dynamic-repo-badges.vercel.app/svg/count/1/Repository%20Views/demo)
 ![Dynamic Banner Example](https://ishan-rest.vercel.app/svg/banner/dev/IshanOshada)
 
+![test](https://dynamic-repo-badges.vercel.app/svg/count/1/Repository%20Views/your-repo)
+
 ## 🌐 Live Demo
 
 Explore our **Dynamic Repository Views Badge Generator** in action! Visit the live demo to see real-time badge and banner examples, customize styles, and generate Markdown code for your GitHub repositories.
